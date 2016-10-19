@@ -1,3 +1,5 @@
+## apt-get install xdotool
+
 #firefox "http://www.google.com/" &
 firefox &
 sleep 5
